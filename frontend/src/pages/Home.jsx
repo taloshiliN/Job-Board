@@ -6,7 +6,9 @@ function Home() {
     <>
       <TopNavigation />
       <div className='Header'>
-        Header
+        <div className='Top'>
+          <h1 className='WorkWave'>WorkWave</h1>
+        </div>
       </div>
       <div className='Benefits'>
         Benefits
