@@ -1,8 +1,29 @@
 import React from 'react'
-
+import TopNavigation from '../components/TopNavigation'
+import '../styles/home.css'
 function Home() {
   return (
-    <div>Home</div>
+    <>
+      <TopNavigation />
+      <div className='Header'>
+        Header
+      </div>
+      <div className='Benefits'>
+        Benefits
+      </div>
+      <div className='Articles'>
+        Articles
+      </div>
+      <div className='ReadyToHire'>
+        Ready To Hire
+      </div>
+      <div className='GetStarted'>
+        Get Started
+      </div>
+      <footer>
+
+      </footer>
+    </>
   )
 }
 
