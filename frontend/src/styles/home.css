@@ -7,6 +7,9 @@
     text-align: left;
     color: rgb(255, 132, 0);
 }
+.Info {
+    text-align: right;
+}
 .Benefits{
     padding: 100px;
     text-align: center;
