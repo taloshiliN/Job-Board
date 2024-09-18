@@ -9,6 +9,9 @@ function Home() {
         <div className='Top'>
           <h1 className='WorkWave'>WorkWave</h1>
         </div>
+        <div className=''>
+          There's suppose to be words here
+        </div>
       </div>
       <div className='Benefits'>
         Benefits
