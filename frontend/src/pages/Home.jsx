@@ -26,7 +26,7 @@ function Home() {
         Get Started
       </div>
       <footer>
-
+        
       </footer>
     </>
   )
