@@ -1,7 +1,10 @@
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+.Top{
+    display: inline-flex;
+    font-size: large;
+}
 .Header {
     padding: 100px;
     text-align: center;
@@ -11,8 +14,12 @@ body{
     text-align: left;
     color: rgb(255, 132, 0);
 }
+.header-buttons{
+    padding: 20px 50px;
+    display: flex;
+}
 .Info {
-    text-align: right;
+    text-align: left;
 }
 .Benefits{
     padding: 100px;
